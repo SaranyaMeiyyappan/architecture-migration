@@ -34,3 +34,8 @@ This covers:
 ### Outcome (always quantify)
 
 “This significantly reduced environment issues, improved deployment confidence, and helped teams focus more on feature development rather than infrastructure problems.”
+
+> [!Tip]
+> “Is this related to payments?”
+>
+> “Indirectly, yes. These systems supported critical business workflows where stability and correctness were essential. Any environment or deployment issue could potentially impact customer-facing flows, so reliability was a top priority.” 
